@@ -3,7 +3,7 @@
 Author: Imre Fekete (Department of Applied Analysis and Computational Mathematics, Eötvös Loránd University)
 <br>
 
-The problems sheets have been created during the academic year 2018/2019.
+The problems sheets have been created during the academic year 2018/2019. This is a modified and updated version of the original one.
 
 Options for running the Jupyter notebooks
 + locally on your computer 
